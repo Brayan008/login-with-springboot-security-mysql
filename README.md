@@ -1,5 +1,5 @@
 ## Spring Boot With AWS S3 ##
-Example Login with Spring Boot, Sring Security and MySQL in AWS RDS. And recover password by email.
+Example Login with Spring Boot, Spring Security and MySQL in AWS RDS. And recover password by email.
 
 USE:
 > spring-boot-starter-thymeleaf
