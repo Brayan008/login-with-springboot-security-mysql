@@ -1,0 +1,6 @@
+<footer data-th-fragment="piepagina">
+            <form method="post" data-th-action="@{/logout}">
+                <b>Usuario:</b> <span sec:authentication="name">Usuario logueado</span>
+                <b>Roles:</b> <span sec:authentication="principal.authorities">Roles</span>
+            </form>
+</footer>
